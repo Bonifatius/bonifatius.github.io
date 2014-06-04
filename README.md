@@ -1,6 +1,4 @@
 bonifati.us
 ===========
 
-bonifati.us website
-
-## lol du noob
+Code repository for [bonifati.us](http://bonifati.us) website
