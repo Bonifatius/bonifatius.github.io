@@ -92,11 +92,12 @@ html, body {
 @media (min-width: 760px) {
   /* line 15, ../_scss/_layout.scss */
   .pageContainer > header, .pageContainer > main, .pageContainer > footer > .inner {
+    width: 100%;
     max-width: 50rem;
     padding: 0 2em;
   }
 }
-/* line 29, ../_scss/_layout.scss */
+/* line 30, ../_scss/_layout.scss */
 .pageContainer > main {
   flex-grow: 1;
 }
