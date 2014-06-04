@@ -1,3 +1,4 @@
+@import url("http://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400italic,500italic,600italic,700italic|Gentium+Basic:400,700,400italic,700italic");
 /* line 2, ../_scss/_reset.scss */
 h1, h2, h3, h4, h5, h6,
 p {
@@ -15,14 +16,14 @@ img {
 body, table {
   font-size: 20px;
   line-height: 1.4;
-  font-family: "Gentium Book Basic", serif;
+  font-family: "Gentium Basic", "Gentium Book Basic", serif;
   color: #333333;
 }
 
 /* line 8, ../_scss/_typografy.scss */
 h1, h2, h3, h4, h5, h6,
 footer {
-  font-family: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cabin", "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* line 12, ../_scss/_typografy.scss */

@@ -1,9 +1,13 @@
+
+
 $fontSize: 18.5px;
 $fontSize: 20px;
-$fontFamily_body: 'Gentium Book Basic', serif;
 $lineHeight: 1.4;
+
+@import url("http://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400italic,500italic,600italic,700italic|Gentium+Basic:400,700,400italic,700italic");
+$fontFamily_body: "Gentium Basic", "Gentium Book Basic", serif;
 $fontFamily-monospace: "Source Code Pro", Menlo, Monaco, Consolas, "Courier New", monospace !default;
-$fontFamily_headlines: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$fontFamily_headlines: "Cabin", "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $fontColor_body: #333;
 
 $color_bg: #fafafa;
