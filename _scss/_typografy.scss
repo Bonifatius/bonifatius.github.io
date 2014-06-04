@@ -8,7 +8,13 @@ h1, h2, h3, h4, h5, h6,
 footer {
   font-family: $fontFamily_headlines;
 }
-
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1;
+}
+h2.title {
+  font-size: 2.4rem;
+  padding: .5rem 0 .2rem;
+}
 a {
   text-decoration: none;
   color: $color_fgLink;

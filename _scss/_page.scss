@@ -6,9 +6,9 @@ html {
     background-color: $color_bgPage;
 
     @include breakpoint(small-screen) {
-      padding: 1rem 2rem;
-      border: 0 solid $color_fgThin;
-      border-width: .2em .2em 0;
+      padding: 2rem 2rem 4rem;
+      /*border: 0 solid $color_fgThin;
+      border-width: .2em .2em 0;*/
     }
 
     & > .page {

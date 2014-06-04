@@ -26,7 +26,18 @@ footer {
   font-family: "Cabin", "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* line 12, ../_scss/_typografy.scss */
+/* line 11, ../_scss/_typografy.scss */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1;
+}
+
+/* line 14, ../_scss/_typografy.scss */
+h2.title {
+  font-size: 2.4rem;
+  padding: .5rem 0 .2rem;
+}
+
+/* line 18, ../_scss/_typografy.scss */
 a {
   text-decoration: none;
   color: #c13327;
@@ -35,11 +46,11 @@ a {
   margin: 0 -.2em;
   border-radius: .2em;
 }
-/* line 20, ../_scss/_typografy.scss */
+/* line 26, ../_scss/_typografy.scss */
 a:hover, a:focus {
   color: #ac232f;
 }
-/* line 24, ../_scss/_typografy.scss */
+/* line 30, ../_scss/_typografy.scss */
 body > main a:hover, body > main a:focus {
   background-color: #fafafa;
   border-color: #eeeeee;
@@ -97,14 +108,14 @@ html {
 
 /* line 5, ../_scss/_page.scss */
 .pageContainer > main {
-  background-color: #fdfdfd;
+  background-color: white;
 }
 @media (min-width: 500px) {
   /* line 5, ../_scss/_page.scss */
   .pageContainer > main {
-    padding: 1rem 2rem;
-    border: 0 solid #eeeeee;
-    border-width: .2em .2em 0;
+    padding: 2rem 2rem 4rem;
+    /*border: 0 solid $color_fgThin;
+    border-width: .2em .2em 0;*/
   }
 }
 /* line 15, ../_scss/_page.scss */
@@ -132,16 +143,6 @@ html {
 /* line 37, ../_scss/_page.scss */
 .pageContainer > header .logo .title {
   display: none;
-}
-
-/* line 1, ../_scss/page/_bonilied.scss */
-.verse, .refrain {
-  white-space: pre-line;
-  padding: 0 0 1em;
-}
-/* line 5, ../_scss/page/_bonilied.scss */
-.verse > span, .refrain > span {
-  color: #777777;
 }
 
 /* line 3, ../_scss/page/_index.scss */
@@ -173,4 +174,22 @@ html {
   .posts .teaser:nth-child(2n-1) {
     margin-right: 1em;
   }
+}
+
+/* line 2, ../_scss/page/_post.scss */
+.meta {
+  font-family: "Cabin", "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #777777;
+  font-size: 16px;
+  padding-bottom: .5rem;
+}
+
+/* line 1, ../_scss/page/_bonilied.scss */
+.verse, .refrain {
+  white-space: pre-line;
+  padding: 0 0 1em;
+}
+/* line 5, ../_scss/page/_bonilied.scss */
+.verse > span, .refrain > span {
+  color: #777777;
 }
