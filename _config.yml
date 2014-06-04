@@ -1,0 +1,5 @@
+name: Bonifati.us
+pygments: true
+
+markdown: redcarpet
+encoding: utf-8

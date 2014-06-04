@@ -1,0 +1,21 @@
+$fontSize: 18.5px;
+$fontSize: 20px;
+$fontFamily_body: 'Gentium Book Basic', serif;
+$lineHeight: 1.4;
+$fontFamily-monospace: "Source Code Pro", Menlo, Monaco, Consolas, "Courier New", monospace !default;
+$fontFamily_headlines: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$fontColor_body: #333;
+
+$color_bg: #fafafa;
+$color_bgPage: #fdfdfd;
+$color_bgFooter: #eee;
+$color_bgHover: #fafafa;
+
+$color_fgLight: #777;
+$color_fgThin: #eee;
+$color_fgLink: #C13327;
+$color_fgLinkHover: darken(adjust-hue(#C13327, -10deg), 5%);
+//$color_fgLinkHover: mix(#C13327, #FF0000, 60%);
+
+$lineSize: $lineHeight * $fontSize;
+$fontSize_small: $fontSize * .8;

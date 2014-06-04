@@ -1,0 +1,24 @@
+---
+layout: default
+title: Bonifati.us Blog
+---
+
+<div class="page page-index">
+  <h1>Blog Posts</h1>
+  <div class="posts">
+    {% for post in site.posts %}
+      <div class="teaser" lang="{{ post.lang }}">
+        <aside>
+          <img src="images/{{ post.image }}" />
+        </aside>
+        <header>
+          <span class="post-date">{{ post.date | date_to_string }}</span>
+          <h3 class="post-title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+        </header>
+        <main>
+          {{ post.excerpt }}
+        </main>
+      </div>
+    {% endfor %}
+  </div>
+</div>

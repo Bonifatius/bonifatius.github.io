@@ -1,0 +1,42 @@
+html {
+  background-color: $color_bg;
+}
+.pageContainer {
+  & > main {
+    background-color: $color_bgPage;
+
+    @include breakpoint(small-screen) {
+      padding: 1rem 2rem;
+      border: 0 solid $color_fgThin;
+      border-width: .2em .2em 0;
+    }
+
+    & > .page {
+      & > h1 {
+        padding-bottom: 1rem;
+      }
+    }
+  }
+  & > footer {
+
+    background-color: $color_bgFooter;
+    color: $color_fgLight;
+    
+    font-size: $fontSize_small;
+
+    & > .inner {
+      padding: 1rem;
+    }
+  }
+  & > header  {
+    .logo {
+      padding: .5em 0;
+      img {
+        max-width: 17rem;
+      }
+      .title {
+        display: none;
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+.verse, .refrain {
+  white-space: pre-line;
+  padding: 0 0 1em;
+
+  & > span {
+    color: $color_fgLight;
+  }
+}
