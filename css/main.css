@@ -32,12 +32,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* line 14, ../_scss/_typografy.scss */
-h2.title {
+h2:not(:first-child) {
   font-size: 2.4rem;
   padding: .5rem 0 .2rem;
 }
 
 /* line 18, ../_scss/_typografy.scss */
+h3:not(:first-child) {
+  padding: 2rem 0 .5rem 0;
+}
+
+/* line 21, ../_scss/_typografy.scss */
 a {
   text-decoration: none;
   color: #c13327;
@@ -46,11 +51,11 @@ a {
   margin: 0 -.2em;
   border-radius: .2em;
 }
-/* line 26, ../_scss/_typografy.scss */
+/* line 29, ../_scss/_typografy.scss */
 a:hover, a:focus {
   color: #ac232f;
 }
-/* line 30, ../_scss/_typografy.scss */
+/* line 33, ../_scss/_typografy.scss */
 body > main a:hover, body > main a:focus {
   background-color: #fafafa;
   border-color: #eeeeee;
