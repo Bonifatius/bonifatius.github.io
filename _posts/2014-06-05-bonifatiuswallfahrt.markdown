@@ -2,7 +2,7 @@
 layout: post
 title:  "Bonifatiuswallfahrt"
 date:   2014-06-05 09:30
-categories: bonifati.us
+tags: bonifati.us
 lang:   de
 image:  boniwallfahrt_400.jpg
 title_image: boniwallfahrt_1200.jpg

@@ -2,7 +2,7 @@
 layout: post
 title:  "Oh, Heil’ger Bonifati.us"
 date:   2014-06-05 09:30
-categories: bonifati.us
+tags: bonifati.us
 lang:   de
 image:  bonifatiusstatue_400.jpg
 title_image: bonifatiusstatue_1200.jpg

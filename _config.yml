@@ -1,6 +1,8 @@
 name: Bonifati.us
+description: Catholic Web Apostolate
 mission: Verbum dominum manet in aeternum
 pygments: true
+url: http://blog.bonifati.us
 
 markdown: redcarpet
 encoding: utf-8
