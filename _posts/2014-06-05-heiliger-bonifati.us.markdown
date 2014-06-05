@@ -7,13 +7,12 @@ lang:   de
 image:  bonifatiusstatue_400.jpg
 title_image: bonifatiusstatue_1200.jpg
 ---
-<section class="refrain">Für uns, die wir noch ringen,
+<section class="refrain"><em>Für uns, die wir noch ringen,
   nach unserm Heil im Erdental,
   bitt' Gott, dem wir hier singen,
   dort in dem großen Himmelssal,
-  o heil'ger Bonifatius!</section>
+  o heil'ger Bonifatius!</em></section>
 
+Heute ist das Hochfest des Heiligen Bonifatius, Apostel der Deutschen und Patron des Bistums Fulda. Heute geht auch unsere Website [bonifati.us](http://bonifati.us) online.
 
-Heute geht [bonifati.us](http://bonifati.us) online.
-
-**Nicht vergessen:** Am 9. Juni (Pfingstmontag) ist das Bonifatiusfest in Fulda. Wie gewohnt trifft sich die Wallfahrtsgruppe mit JESUS-Shirts um 8:00 Uhr an der Propstei Johannesberg zum Pilgern durch die Fuldaauen zum Dom.
+**Nicht vergessen:** Am 9. Juni (Pfingstmontag) wird dieses Fest mit der Bonifatiuswallfahrt zu seinem Grab begangen. Wie gewohnt trifft sich die Wallfahrtsgruppe der JESUS-Fans um 8:00 Uhr an der Propstei Johannesberg zum Pilgern durch die Fuldaauen zum Dom. JESUS-Shirts sind empfohlen, aber keine Pflicht.
