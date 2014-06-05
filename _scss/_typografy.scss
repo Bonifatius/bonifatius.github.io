@@ -11,12 +11,23 @@ footer {
 h1, h2, h3, h4, h5, h6 {
   line-height: 1;
 }
-h2:not(:first-child) {
-  font-size: 2.4rem;
-  padding: .5rem 0 .2rem;
+h1 {
+  font-size: 2.6rem;
+  &:not(:first-child) {
+    padding: 2rem 0 .5rem;
+  }
 }
-h3:not(:first-child) {
-  padding: 2rem 0 .5rem 0;
+h2 {
+  font-size: 2.4rem;
+  &:not(:first-child) {
+    padding: .5rem 0 .2rem;
+  }
+}
+h3 {
+  font-size: 1.8rem;
+  &:not(:first-child) {
+    padding: .5rem 0 .2rem;
+  }
 }
 a {
   text-decoration: none;
