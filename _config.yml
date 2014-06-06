@@ -6,3 +6,10 @@ url: http://blog.bonifati.us
 
 markdown: redcarpet
 encoding: utf-8
+permalink: /:year-:month-:day-:title
+
+authors:
+  johannes:
+    name: Johannes Müller
+  philipp:
+    name: Philipp Müller
