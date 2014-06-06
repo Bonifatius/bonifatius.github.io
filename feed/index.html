@@ -6,6 +6,11 @@ layout: nil
   <channel>
     <title>{{ site.name }}</title>
     <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <image>
+      <url>{{ site.url }}/images/bonifati.us-logo.png</url>
+      <link>{{ site.url }}</link>
+      <title>{{ site.name }}</title>
+    </image>
     <link>{{ site.url }}</link>
     <atom:link type="application/rss+xml" href="{{ site.url }}/feed" rel="self" />
     
