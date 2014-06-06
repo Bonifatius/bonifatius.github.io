@@ -12,6 +12,14 @@ img {
   border: none;
 }
 
+/* apply a natural box layout model to all elements */
+/* line 12, ../_scss/_reset.scss */
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 /* line 1, ../_scss/_typografy.scss */
 body, table {
   font-size: 20px;
@@ -109,13 +117,30 @@ html, body {
   /* line 15, ../_scss/_layout.scss */
   .pageContainer > header, .pageContainer > main, .pageContainer > footer > .inner {
     width: 100%;
-    max-width: 50rem;
+    max-width: 54rem;
     padding: 0 2em;
   }
 }
 /* line 30, ../_scss/_layout.scss */
 .pageContainer > main {
   flex-grow: 1;
+}
+
+/* line 1, ../_scss/_components.scss */
+blockquote {
+  margin: 14px 28px;
+  background: rgba(255, 250, 240, 0.7);
+  padding: 14px;
+}
+
+/* line 6, ../_scss/_components.scss */
+p {
+  margin-bottom: 0;
+}
+/* line 8, ../_scss/_components.scss */
+p + p {
+  text-indent: 14px;
+  margin-top: 0;
 }
 
 /* line 1, ../_scss/_page.scss */
@@ -195,14 +220,15 @@ html {
   .posts {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
   }
-  /* line 22, ../_scss/page/_index.scss */
+  /* line 24, ../_scss/page/_index.scss */
   .posts .teaser {
     width: 50%;
   }
-  /* line 24, ../_scss/page/_index.scss */
+  /* line 26, ../_scss/page/_index.scss */
   .posts .teaser:nth-child(2n-1) {
-    margin-right: 1em;
+    padding-right: 1em;
   }
 }
 
@@ -212,6 +238,16 @@ html {
   color: #777777;
   font-size: 16px;
   padding-bottom: .5rem;
+}
+
+/* line 8, ../_scss/page/_post.scss */
+.post-content {
+  margin-top: 14px;
+  max-width: 40em;
+}
+/* line 11, ../_scss/page/_post.scss */
+.post-content section {
+  padding-bottom: 14px;
 }
 
 /* line 1, ../_scss/page/_bonilied.scss */

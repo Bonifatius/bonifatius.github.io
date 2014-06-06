@@ -1,0 +1,12 @@
+blockquote {
+  margin: $lineSize/2 $lineSize;
+  background: rgba(255,250,240,.7);
+  padding: $lineSize/2;
+}
+p {
+  margin-bottom: 0;
+  & + p {
+    text-indent: $lineSize/2;
+    margin-top: 0
+  }
+}

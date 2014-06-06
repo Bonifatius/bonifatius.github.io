@@ -8,14 +8,16 @@ title: Bonifati.us Blog
     {% for post in site.posts %}
       <div class="teaser" lang="{{ post.lang }}">
         <aside>
+          {% if post.image %}
           <img src="images/{{ post.image }}" />
+          {% endif %}
         </aside>
         <header>
           <span class="post-date">{{ post.date | date_to_string }}</span>
           <h3 class="post-title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
         </header>
         <main>
-          {{ post.excerpt }}
+          {{ post.excerpt | markdownify }}
         </main>
       </div>
     {% endfor %}

@@ -16,4 +16,11 @@ title_image: bonifatiusstatue_1200.jpg
 
 Heute ist das Hochfest des Heiligen Bonifatius, Apostel der Deutschen und Patron des Bistums Fulda. Heute geht auch unsere Website [bonifati.us](http://bonifati.us) online.
 
+<blockquote>
+  <p>Mit Bonifatius begann gewissermaßen die Geschichte des Christentums in Eurem Land.</p>
+  <p>Viele sagen, diese Geschichte neige sich jetzt ihrem Ende zu.</p>
+  <p>Ich sage Euch: Diese Geschichte des Christentums in Eurem Land soll jetzt neu beginnen, und zwar durch Euch, durch Euer im Geist des heiligen Bonifatius geformtes Zeugnis!</p>
+  <cite>Papst Johannes Paul II</cite>
+</blockquote>
+
 **Nicht vergessen:** Am 9. Juni (Pfingstmontag) wird dieses Fest mit der Bonifatiuswallfahrt zu seinem Grab begangen. Wie gewohnt trifft sich die Wallfahrtsgruppe der JESUS-Fans um 8:00 Uhr an der Propstei Johannesberg zum Pilgern durch die Fuldaauen zum Dom. JESUS-Shirts sind empfohlen, aber keine Pflicht.
