@@ -5,6 +5,9 @@ layout: default
 <img src="/images/{{page.title_image}}" />
 {% endif %}
 <h2 class="title">{{ page.title }}</h2>
+{% if page.subtitle %}
+<h3 class="subtitle">{{ page.subtitle }}</h2>
+{% endif %}
 <p class="meta">{{ page.date | date_to_string }} {% if page.author %}by {{ site.authors[page.author].name }}{% endif %}</p>
 
 <div class="post-content">
