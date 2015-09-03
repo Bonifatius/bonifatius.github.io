@@ -7,7 +7,6 @@ lang:   en
 image:  
 title_image: 
 author: philipp
-published: false
 ---
 
 ##How Glorifying Art is Making the Difference
