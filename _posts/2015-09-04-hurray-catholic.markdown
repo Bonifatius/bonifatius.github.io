@@ -5,8 +5,8 @@ subtitle: "How Glorifying Art is Making the Difference"
 date:   2015-09-06 09:30
 tags: bonifati.us
 lang:   en
-image:  
-title_image: 
+image: san-ignazio_400.jpg
+title_image: san-ignazio_1200.jpg
 author: philipp
 ---
 Do not be an upbeat Christian. Also beware of being to faithful to Catholic teachings. State of the art technology and methods are nothing for you. You are just putting on a show anyway. You don’t care about the poor and only minister to the filth rich …. wait! there is already an [article](http://hinsehen.net/2015/09/01/die-falsche-mission-wie-mit-hollywood-methoden-menschen-zum-glauben-verfuehrt-werden-sollen/) like this? Sorry, my bad. This one will sing to a different tune.
