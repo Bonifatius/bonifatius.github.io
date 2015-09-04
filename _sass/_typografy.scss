@@ -18,9 +18,17 @@ h1 {
     padding-top: .5rem;
   }
 }
-h2.title {
-  font-size: 2.4rem;
-  padding: .5rem 0 .2rem;
+hgroup {
+  padding: $lineSize / 2;
+}
+h1.title {
+  font-size: 3rem;
+  padding: 0;
+  color: $color_fgLink;
+}
+h2.subtitle {
+  font-size: 1.7rem;
+  padding: 0;
 }
 h2 {
   font-size: 1.8rem;

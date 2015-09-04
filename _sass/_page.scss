@@ -21,7 +21,7 @@ html {
 
     background-color: $color_bgFooter;
     color: $color_fgLight;
-    
+
     font-size: $fontSize_small;
 
     .nav {
@@ -37,6 +37,10 @@ html {
           padding: 0;
         }
       }
+    }
+
+    .copyright {
+      text-align: center;
     }
 
     & > .inner {

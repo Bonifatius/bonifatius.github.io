@@ -14,4 +14,10 @@
   iframe {
     margin: 1.5rem 0;
   }
+  p:first-child strong:only-child {
+    font-size: 1.1em;
+  }
+}
+article > header {
+  text-align: center;
 }
