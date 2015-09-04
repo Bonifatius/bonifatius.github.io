@@ -9,7 +9,7 @@ image: san-ignazio_400.jpg
 title_image: san-ignazio_1200.jpg
 author: philipp
 ---
-**Do not be an upbeat Christian. Also beware of being to faithful to0 Catholic teachings. State of the art technology and methods are nothing for you. You are just putting on a show anyway. You don’t care about the poor and only minister to the filth rich …. wait! there is already an [article](http://hinsehen.net/2015/09/01/die-falsche-mission-wie-mit-hollywood-methoden-menschen-zum-glauben-verfuehrt-werden-sollen/) like this? Sorry, my bad. This one will sing to a different tune.**
+**Do not be an upbeat Christian. Also beware of being to faithful to Catholic teachings. State of the art technology and methods are nothing for you. You are just putting on a show anyway. You don’t care about the poor and only minister to the filth rich … wait! there is already an [article](http://hinsehen.net/2015/09/01/die-falsche-mission-wie-mit-hollywood-methoden-menschen-zum-glauben-verfuehrt-werden-sollen/) like this? Sorry, my bad. This one will sing to a different tune.**
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/oqmTM-mNBL0" frameborder="0" allowfullscreen></iframe>
 
@@ -41,7 +41,7 @@ But the New Movements are reaching all parts of society. They are working in dev
 It is a fairly bold move to accuse people of putting on a show while sharing their personal testimony. It is quite interesting to read about people ignoring the hardships of life after hearing these two people describe their struggle in the faith. Also Fr. Josh Johnson confirmed in his testimony the suspicion. Priests are not necessarily holy. Quite often they are very fallible, sinning and in dire need of conversion. Like we all are. So I guess this video is not a good example of the deceitful, plotting manipulative group of Catholics described in the article.
 
 ##Two Good Questions
-	
+
 What do I do if my world comes tumbling down? Trust in God and suffer the consequences. If I am right they will be very positive, if I am wrong well too bad for me. The second question is about expectations and reality. We need to learn that God is perfectly capable of shattering our expectations. But he is not capable of breaking his promises. So these are safe to expect. And yes I am a sinner, I am fallible and weak. I have not figured it all out nor do I know the answers to many good and important questions. But I know GOD is love and HE is risen. This is where reality hits me in the face. When there is real suffering and evil that I cannot explain, I know for this to be real and objective it needs an objective standard to be measured to. When I encounter other people and there inherent dignity I know they have not given themselves this dignity. When I hear the stories of Saint I know that some of what they did is not humanly possible. 
 
 Stay tuned for my next article “Oorah Catholic”-serving for a better world
