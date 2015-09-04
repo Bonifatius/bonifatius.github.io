@@ -2,15 +2,15 @@
       <footer>
         <div class="inner">
           <div class="copyright">
-            &copy; 2014 Bonifati.us
+            &copy; 2015 Bonifati.us
             <em>{{ site.mission }}</em>
           </div>
           <div class="nav">
             <ul>
-              <li><a href="/">home</a></li>
-              <li><a href="/imprint">imprint</a></li>
-              <li><a href="/bonifatiuslied">bonifatiuslied</a></li>
-              <li><a href="/feed">rss</a></li>
+              <li><a href="{{ "/" | prepend: site.baseurl | prepend: site.url }}">home</a></li>
+              <li><a href="{{ "/imprint" | prepend: site.baseurl | prepend: site.url }}">imprint</a></li>
+              <li><a href="{{ "/bonifatiuslied" | prepend: site.baseurl | prepend: site.url }}">bonifatiuslied</a></li>
+              <li><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">feed</a></li>
             </ul>
           </div>
           <div class="links">
