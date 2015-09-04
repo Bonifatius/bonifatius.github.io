@@ -1,15 +1,18 @@
 name: Bonifati.us
 description: Catholic Web Apostolate
 mission: Verbum dominum manet in aeternum
-pygments: true
+highligter: pygments
 url: http://blog.bonifati.us
 
 markdown: redcarpet
 encoding: utf-8
+permalinks: pretty
 permalink: /:year-:month-:day-:title
 
 authors:
   johannes:
     name: Johannes Müller
+    mail: johannes@bonifati.us
   philipp:
     name: Philipp Müller
+    mail: philipp@bonifati.us
