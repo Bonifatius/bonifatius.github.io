@@ -11,6 +11,8 @@ author: philipp
 ---
 **Do not be an upbeat Christian. Also beware of being to faithful to Catholic teachings. State of the art technology and methods are nothing for you. You are just putting on a show anyway. You don’t care about the poor and only minister to the filth rich … wait! there is already an [article](http://hinsehen.net/2015/09/01/die-falsche-mission-wie-mit-hollywood-methoden-menschen-zum-glauben-verfuehrt-werden-sollen/) like this? Sorry, my bad. This one will sing to a different tune.**
 
+*Dieser Artikel existiert auch in einer deutschsprachigen Version auf [hinsehen.net](http://hinsehen.net/2015/09/05/ich-bin-ein-hurra-katholik/) (This article is also available in German).*
+
 <iframe width="800" height="450" src="https://www.youtube.com/embed/oqmTM-mNBL0" frameborder="0" allowfullscreen></iframe>
 
 Just so we all know right of the bat: I am a “Hurray Catholic”. Because I have good reason to be joyful: Jesus is risen! He has defeated sin and death. Yes there is still suffering, we still sin and there are still people dying. But death is no longer final end. Amidst of crisis, problems and dreadful exams I have hope. Hope that God does not abandon us, that HE will cure our minds and bodies. That He will raise us up, dry our tears and bring us to His heavenly wedding feast. I know I am loved by my creator and lord. 
