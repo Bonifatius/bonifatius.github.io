@@ -38,7 +38,7 @@ But the New Movements are reaching all parts of society. They are working in dev
 
 ##Failed Connection 
 
-It is a fairly bold move to accuse people of putting on a show while sharing their personal testimony. It is quite interesting to read about people ignoring the hardships of life after hearing these two people describe their struggle in the faith. Also Fr. Josh Johnson confirmed in his testimony the suspicion. Priests are not necessarily holy. Quite often they are very fallible, sinning and in dire need of conversion. Like we all are. So I guess this video is not a good example of the deceitful, plotting manipulative group of Catholics described in the article.
+It is a fairly bold move to accuse people of putting on a show while sharing their personal testimony. It is quite interesting to read about people ignoring the hardships of life after hearing these two people describe their struggle in the faith. Also Fr. Josh Johnson confirmed in his testimony the suspicion. Priests are not necessarily holy. Quite often they are very fallible, sinning and in dire need of conversion. Like we all are. So I guess this video is not a good example of the manipulative group of Catholics described in the article.
 
 ##Two Good Questions
 
