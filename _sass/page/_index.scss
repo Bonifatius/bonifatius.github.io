@@ -5,7 +5,7 @@
   align-items: baseline;
 
   .teaser {
-    margin: $spacing-unit / 2;
+    margin: size(unit, .5);
     flex: 1 1 20em;
     max-width: 500px;
 
@@ -16,18 +16,18 @@
     .post-content {
       margin-top: 0;
       text-align: justify;
-      font-size: $fontSize * .9;
+      font-size: size(font, .9);
     }
 
     & > header {
       & > .post-date {
-        color: $color_fgLight;
-        font-size: $fontSize_small;
+        color: color(light);
+        font-size: size(font-small);
       }
       & > h3 {
         font-size: 1.6em;
         line-height: 1;
-        padding-bottom: $spacing-unit / 4;
+        padding-bottom: size(unit, .25);
       }
     }
   }

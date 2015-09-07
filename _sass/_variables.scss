@@ -1,37 +1,56 @@
-
-
-$fontSize: 18.5px;
-$fontSize: 22px;
-$lineHeight: 1.4;
-
 @import url("http://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400italic,500italic,600italic,700italic|Gentium+Basic:400,700,400italic,700italic");
+
 $fontFamily_body: "Gentium Basic", "Gentium Book Basic", serif;
 $fontFamily-monospace: "Source Code Pro", Menlo, Monaco, Consolas, "Courier New", monospace !default;
 $fontFamily_headlines: "Cabin", "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
-$fontColor_body: #333;
 
-$highlight: #C13327;
-$highlight2: #DA3F35;
-$highlight3: #ED5A3A;
+$colors: (
+  dark:   #333333,
+  light:  #777777,
+  accent: #C13327,
+  brand:  #ED5A3A,
+  brand2: #DA3F35,
+  background: #FAFAFA,
+  footer-background: #EEEEEE,
 
-$color_bg: #fafafa;
-$color_bgPage: #fff;
-$color_bgFooter: #eee;
-$color_bgHover: #fafafa;
+  copy: dark,
+  action: accent,
+  action-hover: brand2,
+  headlines: accent,
+);
 
-$color_fgLight: #777;
-$color_fgThin: #eee;
-$color_fgLink: $highlight;
-$color_fgLinkHover: darken(adjust-hue(#C13327, -10deg), 5%);
-$color_fgLinkHover: $highlight2;
-//$color_fgLinkHover: mix(#C13327, #FF0000, 60%);
+$sizes: (
+  unit: 1.1rem,
+  font: 22px,
+  font-small: 22px * .8
+);
 
-$lineSize: $lineHeight * $fontSize;
-$fontSize_small: $fontSize * .8;
-
+$line-height: 1.4;
 $spacing-unit: 1.1rem;
-
 $content-width: 40rem;
 
-
 $gradientValues:  #D46E31 0, #D76E30 0.5%, #E46D27 3.7%, #EC6B23 6.9%, #F16B22 10.4%, #ED5A3A 56.1%, #DA3F35 88%, #D93A35 100%;
+
+// this example uses https://github.com/heygrady/scss-blend-modes
+// which is a blast to generate color schemes with
+@function color($key: lime, $variant: false) {
+  $cool-black : #0A0A33;
+  $color      : map-get($colors, $key) or $color;
+  // Recursive check
+  $color: if(map-has-key($colors, $color), color($color), $color);
+
+  @if $variant == light {
+    $color: saturate(blend-screen(rgba(#fff, 0.4), $color), 25%);
+  }
+  @if $variant == dark {
+    $color: blend-multiply(rgba($cool-black, 0.5), $color);
+  }
+  @if $variant == darker {
+    $color: blend-multiply(rgba($cool-black, 0.85), $color);
+  }
+  @return $color;
+}
+
+@function size($key, $multiplier: 1) {
+  @return map-get($sizes, $key) * $multiplier;
+}

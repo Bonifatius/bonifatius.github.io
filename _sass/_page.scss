@@ -1,5 +1,5 @@
 html {
-  background-color: $color_bg;
+  background-color: color(background);
 }
 html, body {
   margin: 0;
@@ -50,8 +50,8 @@ html, body {
   display: flex;
   justify-content: space-between;
 
-  background-color: $color_bgFooter;
-  color: $color_fgLight;
+  background-color: color(footer-background);
+  color: color(light);
 
   font-size: .7rem;
   font-family: $fontFamily_headlines;
@@ -80,9 +80,9 @@ html, body {
   }
 
   a {
-    color: $color_fgLinkHover;
+    color: color(action-hover);
     &:hover, &:focus {
-      color: $color_fgLink;
+      color: color(action);
     }
   }
 }
@@ -113,5 +113,7 @@ html, body {
     min-width: 10em;
     max-width: 18em;
     flex: 1 1 15em;
+    display: block;
+    margin: .5em;
   }
 }

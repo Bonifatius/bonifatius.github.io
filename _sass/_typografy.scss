@@ -1,22 +1,22 @@
 html, body, table {
-  font-size: $fontSize * .75;
-  line-height: $lineHeight;
+  font-size: size(font, .75);
+  line-height: $line-height;
   font-family: $fontFamily_body;
-  color: $fontColor_body;
+  color: color(copy);
 
   @include breakpoint(small-screen) {
-    font-size: $fontSize * .8;
+    font-size: size(font, .8);
   }
   @include breakpoint(medium-screen) {
-    font-size: $fontSize * .9;
+    font-size: size(font, .9);
   }
   @include breakpoint(large-screen) {
-    font-size: $fontSize;
+    font-size: size(font);
   }
 }
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
-  padding: $spacing-unit/2 0;
+  padding: size(unit, .5) 0;
   font-family: $fontFamily_headlines;
 }
 h1 {
@@ -26,12 +26,12 @@ h1 {
   }
 }
 hgroup {
-  padding: $lineSize / 2;
+  padding: size(unit, .5);
 }
 .title {
   font-size: 2.2rem;
   padding: 0;
-  color: $color_fgLink;
+  color: color(headlines);
 }
 .subtitle {
   font-size: 1.1rem;
@@ -44,25 +44,21 @@ h3 {
   font-size: 1rem;
 }
 p + h2, p + h3, p + h4 {
-  margin-top: $spacing-unit;
+  margin-top: size(unit);
 }
 a {
   text-decoration: none;
-  color: $color_fgLink;
+  color: color(action);
 
   &:hover, &:focus {
-    color: $color_fgLinkHover;
-
-    body > main & {
-      background-color: $color_bgHover;
-    }
+    color: color(action-hover);
   }
 }
 
 blockquote {
-  margin: $spacing-unit/2 0;
+  margin: size(unit, .5) 0;
   background: #FFFFDD;
-  padding: $spacing-unit;
+  padding: size(unit);
 }
 
 .post-content {
@@ -70,22 +66,22 @@ blockquote {
     margin-bottom: 0;
   }
   p + *, .videoWrapper + p {
-    margin-top: $lineSize/2;
+    margin-top: size(unit, .5);
   }
 }
 
 svg.icon {
   height: 1.5em;
   width: 1.5em;
-  color: $color_fgLink;
-  fill: $color_fgLink;
+  color: color(action);
+  fill: color(action);
 
   &:hover {
-    background-color: $color_fgLink;
+    background-color: color(action);
 
     border-radius: 100%;
-    color: $color_bgFooter; // IE8
-    fill: $color_bgFooter;
+    color: color(footer-background); // IE8
+    fill: color(footer-background);
     transform: scale(1.25);
     transition: background-color .5s, transform .5s ease-out;
   }

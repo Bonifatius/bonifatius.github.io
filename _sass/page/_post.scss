@@ -1,21 +1,21 @@
 .meta {
   font-family: $fontFamily_headlines;
-  color: $color_fgLight;
-  font-size: $fontSize_small;
-  padding-bottom: $spacing-unit / 2;
+  color: color(light);
+  font-size: size(font-small);
+  padding-bottom: size(unit, .5);
 }
 .post-content {
-  margin-top: $lineSize / 2;
+  margin-top: size(unit, .5);
   max-width: 40em;
   section {
-    padding-bottom: $lineSize/2;
+    padding-bottom: size(unit, .5);
   }
   iframe {
-    margin: $spacing-unit 0;
+    margin: size(unit) 0;
   }
   > p:first-child > strong:only-child {
     font-size: 1.1rem;
-    //font-family: $fontFamily_body;
+
     .teaser > & {
       font-weight: normal;
       font-size: 1em;
