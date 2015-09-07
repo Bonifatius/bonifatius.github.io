@@ -68,10 +68,9 @@ blockquote {
 .post-content {
   p {
     margin-bottom: 0;
-    & + * {
-      //text-indent: $lineSize/2;
-      margin-top: $lineSize/2;
-    }
+  }
+  p + *, .videoWrapper + p {
+    margin-top: $lineSize/2;
   }
 }
 
