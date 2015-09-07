@@ -16,3 +16,17 @@ authors:
   philipp:
     name: Philipp Müller
     mail: philipp@bonifati.us
+
+
+# Build settings
+exclude:
+  - 'Rakefile'
+
+# Server settings
+port: 4000
+host: 0.0.0.0
+
+# settings for deployment (Rakefile)
+git:
+  repo: git@github.com:Bonifatius/bonifatius.github.io.git
+  branch: master
