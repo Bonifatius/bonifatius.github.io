@@ -24,6 +24,9 @@ layout: null
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
       <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+      {% if post.image %}
+      <enclosure url="{{ post.image | append: '_teaser.jpg' | prepend: 'images/'' | prepend: site.baseurl | prepend: site.url }}" type="image/jpeg">
+      {% endif %}
     </item>
     {% endfor %}
   </channel>

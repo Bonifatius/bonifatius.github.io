@@ -5,6 +5,7 @@ date:   2014-06-06 23:40
 tags: [kath.net, KjG, Abtreibung, DBK, Jobo72]
 lang:   de
 author: johannes
+image:  kjg-yourope
 excerpt: "Das KjG-Projekt „YOUrope – StrippenzieherInnen für eine jugendgerechte EU“ hatte zur Europawahl 2014 ein *Starterkit* erstellt mit Anregungen und Forderungen für eine Europäische Union „in der die Rechte von Jugendlichen (14-25 Jahren) ernst- und wahrgenommen werden“."
 ---
 **Das KjG-Projekt „YOUrope – StrippenzieherInnen für eine jugendgerechte EU“ hatte zur Europawahl 2014 ein *Starterkit* erstellt mit Anregungen und Forderungen für eine Europäische Union „in der die Rechte von Jugendlichen (14-25 Jahren) ernst- und wahrgenommen werden“. Inzwischen ist es über den KjG-Server nicht mehr verfügbar, bei Kathtube gibt es aber eine [Kopie](http://www.kathtube.com/player.php?id=34908).**

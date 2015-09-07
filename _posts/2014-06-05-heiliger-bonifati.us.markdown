@@ -4,9 +4,8 @@ title:  "Oh, Heil’ger Bonifati.us"
 date:   2014-06-05 09:30
 tags: bonifati.us
 lang:   de
-image:  bonifatiusstatue_400.jpg
+image:  bonifatiusstatue
 author: johannes
-title_image: bonifatiusstatue_1200.jpg
 ---
 <section class="refrain"><em>Für uns, die wir noch ringen,
   nach unserm Heil im Erdental,

@@ -4,8 +4,8 @@ layout: default
 <main class="page-post">
   <article lang="{{ post.lang }}">
     <header>
-      {% if page.title_image %}
-      <img src="/images/{{page.title_image}}" />
+      {% if page.image %}
+      <img src="{{ page.image | append: '.jpg' | prepend: 'images/' | prepend: site.baseurl }}" />
       {% endif %}
       <hgroup>
         <h1 class="title">{{ page.title }}</h1>

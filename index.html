@@ -9,7 +9,7 @@ title: Bonifati.us Blog
       <div class="teaser" lang="{{ post.lang }}">
         <aside>
           {% if post.image %}
-          <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="images/{{ post.image }}" /></a>
+          <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ post.image | append: '_teaser.jpg' | prepend: 'images/'' | prepend: site.baseurl }}" class="image-teaser" /></a>
           {% endif %}
         </aside>
         <header>
