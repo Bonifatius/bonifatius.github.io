@@ -9,14 +9,14 @@ title: Bonifati.us Blog
       <div class="teaser" lang="{{ post.lang }}">
         <aside>
           {% if post.image %}
-          <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" title="{{ post.title }}"><img src="images/{{ post.image }}" /></a>
+          <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="images/{{ post.image }}" /></a>
           {% endif %}
         </aside>
         <header>
           <span class="post-date">{{ post.date | date_to_string }} {% if page.author %}by {{ site.authors[page.author].name }}{% endif %}</span>
-          <h3 class="title"><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+          <h3 class="title"><a href="{{ post.url | prepend: site.baseurl  }}" title="{{ post.title }}">{{ post.title }}</a></h3>
         </header>
-        <main>
+        <main class="post-content">
           {{ post.excerpt | markdownify }}
         </main>
       </div>

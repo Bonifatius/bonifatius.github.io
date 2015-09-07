@@ -10,6 +10,10 @@ $fontFamily-monospace: "Source Code Pro", Menlo, Monaco, Consolas, "Courier New"
 $fontFamily_headlines: "Cabin", "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $fontColor_body: #333;
 
+$highlight: #C13327;
+$highlight2: #DA3F35;
+$highlight3: #ED5A3A;
+
 $color_bg: #fafafa;
 $color_bgPage: #fff;
 $color_bgFooter: #eee;
@@ -17,13 +21,17 @@ $color_bgHover: #fafafa;
 
 $color_fgLight: #777;
 $color_fgThin: #eee;
-$color_fgLink: #C13327;
+$color_fgLink: $highlight;
 $color_fgLinkHover: darken(adjust-hue(#C13327, -10deg), 5%);
+$color_fgLinkHover: $highlight2;
 //$color_fgLinkHover: mix(#C13327, #FF0000, 60%);
 
 $lineSize: $lineHeight * $fontSize;
 $fontSize_small: $fontSize * .8;
 
-$spacing-unit: 1.5rem;
+$spacing-unit: 1.1rem;
 
-$content-width: 55rem;
+$content-width: 40rem;
+
+
+$gradientValues:  #D46E31 0, #D76E30 0.5%, #E46D27 3.7%, #EC6B23 6.9%, #F16B22 10.4%, #ED5A3A 56.1%, #DA3F35 88%, #D93A35 100%;

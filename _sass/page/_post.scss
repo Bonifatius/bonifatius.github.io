@@ -2,7 +2,7 @@
   font-family: $fontFamily_headlines;
   color: $color_fgLight;
   font-size: $fontSize_small;
-  padding-bottom: .5rem;
+  padding-bottom: $spacing-unit / 2;
 }
 .post-content {
   margin-top: $lineSize / 2;
@@ -11,10 +11,15 @@
     padding-bottom: $lineSize/2;
   }
   iframe {
-    margin: 1.5rem 0;
+    margin: $spacing-unit 0;
   }
-  p:first-child strong:only-child {
-    font-size: 1.1em;
+  > p:first-child > strong:only-child {
+    font-size: 1.1rem;
+    //font-family: $fontFamily_body;
+    .teaser > & {
+      font-weight: normal;
+      font-size: 1rem;
+    }
   }
 }
 article > header {

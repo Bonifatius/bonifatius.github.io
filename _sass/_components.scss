@@ -1,0 +1,14 @@
+
+.links > a {
+  vertical-align: middle;
+  display: inline-block;
+  padding: .2em;
+  border-radius: .3em;
+
+  &:hover, &:focus {
+    color: $color_bgFooter;
+    background-color: $color_fgLink;
+    transform: scale(1.25);
+    transition: background-color .5s, transform .5s ease-out;
+  }
+}

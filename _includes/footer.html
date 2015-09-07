@@ -1,21 +1,25 @@
 <footer class="site-footer">
   <div class="copyright">
     &copy; {{ site.time | date: "%Y" }} Bonifati.us
-    <em>{{ site.mission }}</em>
+    <em lang="la">{{ site.mission }}</em>
   </div>
 
-  <nav class="site-nav links">
-    <a href="{{ "/" | prepend: site.baseurl | prepend: site.url }}">home</a>
-    <a href="{{ "/imprint" | prepend: site.baseurl | prepend: site.url }}">imprint</a>
-    <a href="{{ "/bonifatiuslied" | prepend: site.baseurl | prepend: site.url }}">bonifatiuslied</a>
-    <a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" title="Newsfeed (RSS) abonnieren" type="application/rss+xml"><svg class="icon icon-rss"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl | prepend: site.url }}#icon-rss"></use></svg></a>
-    <a href="https://www.facebook.com/blog.bonifati.us" title="Folge uns auf Facebook"><svg class="icon icon-facebook"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl | prepend: site.url }}#icon-facebook"></use></svg></a>
-    <a href="https://twitter.com/bonifati_us" title="Folge uns auf Twitter"><svg class="icon icon-twitter"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl | prepend: site.url }}#icon-twitter"></use></svg></a>
-    <a href="mailto:hallo@bonfati.us" title="Schreib uns ne Mail"><svg class="icon icon-email"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl | prepend: site.url }}#icon-email"></use></svg></a>
-    <a href="http://github.com/bonifatius" title="Schau bei Github vorbei"><svg class="icon icon-github"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl | prepend: site.url }}#icon-github"></use></svg></a>
+  <nav class="site-social-links">
+    <a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="Newsfeed (RSS) abonnieren" type="application/rss+xml"><svg class="icon icon-rss"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl }}#icon-rss"></use></svg></a>
+    <a href="https://www.facebook.com/blog.bonifati.us" title="Folge uns auf Facebook"><svg class="icon icon-facebook"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl }}#icon-facebook"></use></svg></a>
+    <a href="https://twitter.com/bonifati_us" title="Folge uns auf Twitter"><svg class="icon icon-twitter"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl }}#icon-twitter"></use></svg></a>
+    <a href="mailto:hallo@bonfati.us" title="Schreib uns ne Mail"><svg class="icon icon-email"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl }}#icon-email"></use></svg></a>
+    <a href="http://github.com/bonifatius" title="Schau bei Github vorbei"><svg class="icon icon-github"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl }}#icon-github"></use></svg></a>
   </nav>
-
+  <nav class="site-nav links">
+    <a href="{{ "/" | prepend: site.baseurl }}">home</a>
+    <a href="{{ "/imprint" | prepend: site.baseurl }}">imprint</a>
+    <a href="{{ "/bonifatiuslied" | prepend: site.baseurl }}">bonifatiuslied</a>
+  </nav>
+</footer>
+<footer class="site-footer">
   <aside class="footer-links">
+    <p>Außerdem empfehlenswert:</p>
     <a href="http://glaubenskurs.bonifati.us" rel="friend colleague">Glaubenskurs</a>
     <a href="http://festdesglaubens.de" rel="friend colleague">Fest des Glaubens</a>
     <a href="http://nightfever-fulda.de" rel="friend colleague">NIGHTFEVER Fulda</a>
