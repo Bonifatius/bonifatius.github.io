@@ -102,3 +102,16 @@ html, body {
   }
 }
 
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  > p {
+    width: 100%;
+  }
+  > a {
+    min-width: 10em;
+    max-width: 18em;
+    flex: 1 1 15em;
+  }
+}
