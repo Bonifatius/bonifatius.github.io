@@ -4,11 +4,37 @@
   display: inline-block;
   padding: .2em;
   border-radius: .3em;
+  text-transform: uppercase;
+  position: relative;
 
   &:hover, &:focus {
-    color: $color_bgFooter;
-    background-color: $color_fgLink;
-    transform: scale(1.25);
-    transition: background-color .5s, transform .5s ease-out;
+    &::before {
+      left: 0;
+      right: 0;
+      transition: left .3s, right .3s, background .3s;
+      background-color: rgba(193, 51, 39,1);
+    }
   }
+
+  &::before {
+    content: "";
+    position: absolute;
+    background-color: rgba(193, 51, 39,0);
+    height: .15em;
+    margin-left: -0.2em;
+    margin-top: -.2em;
+    left: 50%;
+    right: 50%;
+    border-radius: 0.075em;
+  }
+
+  > span {
+    font-size: .85rem;
+  }
+}
+
+
+.image-friend {
+  max-width: 18em;
+  display: block;
 }

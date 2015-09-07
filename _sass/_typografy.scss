@@ -1,8 +1,18 @@
 html, body, table {
-  font-size: $fontSize;
+  font-size: $fontSize * .75;
   line-height: $lineHeight;
   font-family: $fontFamily_body;
   color: $fontColor_body;
+
+  @include breakpoint(small-screen) {
+    font-size: $fontSize * .8;
+  }
+  @include breakpoint(medium-screen) {
+    font-size: $fontSize * .9;
+  }
+  @include breakpoint(large-screen) {
+    font-size: $fontSize;
+  }
 }
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
@@ -55,11 +65,13 @@ blockquote {
   padding: $spacing-unit;
 }
 
-p {
-  margin-bottom: 0;
-  & + * {
-    //text-indent: $lineSize/2;
-    margin-top: $lineSize/2;
+.page-content {
+  p {
+    margin-bottom: 0;
+    & + * {
+      //text-indent: $lineSize/2;
+      margin-top: $lineSize/2;
+    }
   }
 }
 

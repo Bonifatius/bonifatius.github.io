@@ -7,7 +7,7 @@
   .teaser {
     margin: $spacing-unit / 2;
     flex: 1 1 20em;
-    max-width: 600px;
+    max-width: 500px;
 
     > aside img {
       width: 100%;
@@ -16,6 +16,7 @@
     .post-content {
       margin-top: 0;
       text-align: justify;
+      font-size: $fontSize * .9;
     }
 
     & > header {
