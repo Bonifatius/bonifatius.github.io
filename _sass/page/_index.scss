@@ -1,7 +1,14 @@
 .posts {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-items: baseline;
 
   .teaser {
-    margin-bottom: $lineSize;
+    margin-bottom: $spacing-unit;
+    margin-right: $spacing-unit;
+    flex: 1 1 20em;
+    max-width: 400px;
 
     & > header {
       & > .post-date {
@@ -12,19 +19,6 @@
         font-size: 1.6em;
         line-height: 1;
         padding-bottom: .5rem;
-      }
-    }
-  }
-
-  @include breakpoint(large-screen) {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-
-    .teaser {
-      width: 50%;
-      &:nth-child(2n-1) {
-        padding-right: 1em;
       }
     }
   }

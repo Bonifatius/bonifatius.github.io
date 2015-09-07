@@ -1,24 +1,40 @@
+<footer class="site-footer">
+  <div class="copyright">
+    &copy; {{ site.time | date: "%Y" }} Bonifati.us
+    <em>{{ site.mission }}</em>
+  </div>
 
-      <footer>
-        <div class="inner">
-          <div class="copyright">
-            &copy; 2015 Bonifati.us
-            <em>{{ site.mission }}</em>
-          </div>
-          <div class="nav">
-            <ul>
-              <li><a href="{{ "/" | prepend: site.baseurl | prepend: site.url }}">home</a></li>
-              <li><a href="{{ "/imprint" | prepend: site.baseurl | prepend: site.url }}">imprint</a></li>
-              <li><a href="{{ "/bonifatiuslied" | prepend: site.baseurl | prepend: site.url }}">bonifatiuslied</a></li>
-              <li><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">feed</a></li>
-            </ul>
-          </div>
-          <div class="links">
-            <ul>
-            </ul>
-          </div>
-        </div>
-      </footer>
-    </div>
-  </body>
-</html>
+  <nav class="site-nav links">
+    <a href="{{ "/" | prepend: site.baseurl | prepend: site.url }}">home</a>
+    <a href="{{ "/imprint" | prepend: site.baseurl | prepend: site.url }}">imprint</a>
+    <a href="{{ "/bonifatiuslied" | prepend: site.baseurl | prepend: site.url }}">bonifatiuslied</a>
+    <a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" title="Newsfeed (RSS) abonnieren" type="application/rss+xml"><svg class="icon icon-rss"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl | prepend: site.url }}#icon-rss"></use></svg></a>
+    <a href="https://www.facebook.com/blog.bonifati.us" title="Folge uns auf Facebook"><svg class="icon icon-facebook"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl | prepend: site.url }}#icon-facebook"></use></svg></a>
+    <a href="https://twitter.com/bonifati_us" title="Folge uns auf Twitter"><svg class="icon icon-twitter"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl | prepend: site.url }}#icon-twitter"></use></svg></a>
+    <a href="mailto:hallo@bonfati.us" title="Schreib uns ne Mail"><svg class="icon icon-email"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl | prepend: site.url }}#icon-email"></use></svg></a>
+    <a href="http://github.com/bonifatius" title="Schau bei Github vorbei"><svg class="icon icon-github"><use xlink:href="{{ "/images/icons.svg" | prepend: site.baseurl | prepend: site.url }}#icon-github"></use></svg></a>
+  </nav>
+
+  <aside class="footer-links">
+    <a href="http://glaubenskurs.bonifati.us" rel="friend colleague">Glaubenskurs</a>
+    <a href="http://festdesglaubens.de" rel="friend colleague">Fest des Glaubens</a>
+    <a href="http://nightfever-fulda.de" rel="friend colleague">NIGHTFEVER Fulda</a>
+    <a href="http://kassel.nightfever.org" rel="friend colleague">NIGHTFEVER Kassel</a>
+  </aside>
+</footer>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//misiones-glauben-leben.de/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 7]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//misiones-glauben-leben.de/piwik/piwik.php?idsite=7" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->

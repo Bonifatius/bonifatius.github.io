@@ -2,8 +2,9 @@ html {
   background-color: $color_bg;
 }
 .pageContainer {
-  & > main {
-    background-color: $color_bgPage;
+  > main {
+    //background-color: $color_bgPage;
+    margin: 0;
 
     @include breakpoint(small-screen) {
       padding: 2rem 2rem 4rem;
@@ -11,51 +12,77 @@ html {
       border-width: .2em .2em 0;*/
     }
 
-    & > .page {
-      & > h1 {
+    > .page {
+      > h1 {
         padding-bottom: 1rem;
       }
     }
   }
-  & > footer {
+}
 
-    background-color: $color_bgFooter;
-    color: $color_fgLight;
+%content-width-container {
+  @include breakpoint(small-screen) {
+  }
+  @include breakpoint(medium-screen) {
+    //margin: 0 auto;
+  }
+  @include breakpoint(large-screen) {
+    width: 100%;
+    max-width: $content-width;
+    padding: 0 2em;
+  }
+}
 
-    font-size: $fontSize_small;
-
-    .nav {
-      ul {
-        margin: 0;
-        padding: 0;
-        text-align: center;
-
-        li {
-          display: inline;
-          list-style: none;
-          margin: 0;
-          padding: 0;
-        }
-      }
+.site-header  {
+  .site-logo {
+    text-align: center;
+    img {
+      max-width: 17rem;
     }
-
-    .copyright {
-      text-align: center;
-    }
-
-    & > .inner {
-      padding: 1rem;
+    .site-title {
+      display: none;
     }
   }
-  & > header  {
-    .logo {
-      padding: .5em 0;
-      img {
-        max-width: 17rem;
-      }
-      .title {
-        display: none;
-      }
+}
+
+.site-main, .site-header {
+  max-width: $content-width * 1.66;
+  margin: auto;
+  > :not(.page-index) {
+    @extend %content-width-container;
+  }
+}
+
+.site-main {
+  margin-bottom: 5 * $spacing-unit;
+}
+
+.site-footer {
+  background-color: $color_bgFooter;
+  color: $color_fgLight;
+
+  font-size: $fontSize_small;
+  font-family: $fontFamily_headlines;
+  text-align: center;
+
+  padding: $spacing-unit / 2;
+
+  > * {
+    margin-bottom: $spacing-unit/2;
+  }
+}
+
+.site-nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+    li {
+      display: inline;
+      list-style: none;
+      margin: 0;
+      padding: 0;
     }
   }
 }

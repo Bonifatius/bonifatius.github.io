@@ -1,7 +1,7 @@
 
 
 $fontSize: 18.5px;
-$fontSize: 20px;
+$fontSize: 22px;
 $lineHeight: 1.4;
 
 @import url("http://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400italic,500italic,600italic,700italic|Gentium+Basic:400,700,400italic,700italic");
@@ -23,3 +23,7 @@ $color_fgLinkHover: darken(adjust-hue(#C13327, -10deg), 5%);
 
 $lineSize: $lineHeight * $fontSize;
 $fontSize_small: $fontSize * .8;
+
+$spacing-unit: 1.5rem;
+
+$content-width: 55rem;
