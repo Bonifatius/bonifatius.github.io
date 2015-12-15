@@ -43,6 +43,25 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
+      - name: "author"
+      	field:
+        	element: "select"
+            label: "Author"
+            options:
+              - name: Johannes
+                value: johannes
+              - name: Philipp
+                value: philipp
+      - name: "lang"
+      	field:
+        	element: "select"
+            label: "Language"
+            options:
+              - name: English
+                value: en
+              - name: Deutsch
+                value: de
+            
 
 # Build settings
 exclude:
