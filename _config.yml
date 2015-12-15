@@ -44,7 +44,7 @@ prose:
           label: "Splash image"
           value: ""
       - name: "author"
-      	field:
+        field:
           element: "select"
           label: "Author"
           options:
@@ -53,7 +53,7 @@ prose:
             - name: Philipp
               value: philipp
       - name: "lang"
-      	field:
+        field:
           element: "select"
           label: "Language"
           options:
