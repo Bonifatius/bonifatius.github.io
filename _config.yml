@@ -4,7 +4,7 @@ mission: Verbum dominum manet in aeternum
 highligter: pygments
 url: http://blog.bonifati.us
 
-markdown: redcarpet
+markdown: kramdown
 encoding: utf-8
 permalinks: pretty
 permalink: /:year-:month-:day-:title
@@ -61,7 +61,7 @@ prose:
               value: en
             - name: Deutsch
               value: de
-            
+
 
 # Build settings
 exclude:
