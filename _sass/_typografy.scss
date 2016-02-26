@@ -57,7 +57,8 @@ a {
 
 blockquote {
   margin: size(unit, .5) 0;
-  background: #FFFFDD;
+  font-style: italic;
+  color: color(light);
   padding: size(unit);
 }
 

@@ -71,6 +71,10 @@ prose:
 # Build settings
 exclude:
   - 'Rakefile'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'CNAME'
+  - 'Readme.md'
 
 # Server settings
 port: 4000
