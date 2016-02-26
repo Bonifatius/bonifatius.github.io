@@ -7,7 +7,7 @@ layout: default
       {% if page.image %}
       <img src="{{ page.image | append: '.jpg' | prepend: '/images/' | prepend: site.baseurl }}" class="image-cover" />
       {% if page.image_attribution %}
-      <span class="image_attribution">{{ page.image_attribution | raw }}</span>
+      <span class="image-attribution">{{ page.image_attribution | raw }}</span>
       {% endif %}
       {% endif %}
       <hgroup>
