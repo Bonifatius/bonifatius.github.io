@@ -17,6 +17,12 @@ authors:
     name: Philipp Müller
     mail: philipp@bonifati.us
 
+languages:
+  en:
+    label: English article
+  de:
+    label: Deutscher Artikel
+
 prose:
   metadata:
     _posts:

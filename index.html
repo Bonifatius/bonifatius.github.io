@@ -13,8 +13,12 @@ title: Bonifati.us Blog
           {% endif %}
         </aside>
         <header>
-          <div class="meta"><span class="post-date">{{ post.date | date_to_string }}</span>{% if post.author %} by <span class="post-author">{{ site.authors[post.author].name }}</span>{% endif %}{% if post.lang %} <span class="post-lang post-lang__{{ post.lang }}">{{ post.lang }}</span>{% endif %}</div>
-          <h3 class="title"><a href="{{ post.url | prepend: site.baseurl  }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+          <div class="meta">
+            <span class="post-date">{{ post.date | date_to_string }}</span>
+            {% if post.author %} by <span class="post-author">{{ site.authors[post.author].name }}</span>{% endif %}
+            {% if post.lang %} <span class="post-lang post-lang__{{ post.lang }}" title="{{ site.languages[post.lang].label }}">{{ post.lang }}</span>{% endif %}
+          </div>
+          <h3 class="title"><a href="{{ post.url | prepend: site.baseurl  }}" title="{{ post.title }}{% if post.subtitle %} — {{ post.subtitle }}{% endif %}">{{ post.title }}</a></h3>
         </header>
         <main class="post-content">
           {{ post.excerpt | markdownify }}
