@@ -5,9 +5,15 @@
   align-items: baseline;
 
   .teaser {
-    margin: size(unit, .5);
-    flex: 1 1 20em;
-    max-width: 500px;
+    padding: size(unit, .5);
+    flex-basis: 100%;
+
+    $base-width: 20em;
+    @for $i from 2 to 3+1 {
+      @media screen and (min-width: $base-width * $i) {
+        flex-basis: calc(100% / #{$i} );
+      }
+    }
 
     > aside img {
       width: 100%;
