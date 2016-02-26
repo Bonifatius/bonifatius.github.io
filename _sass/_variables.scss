@@ -7,6 +7,7 @@ $fontFamily_headlines: "Cabin", "Open Sans", "Source Sans Pro", "Helvetica Neue"
 $colors: (
   dark:   #333333,
   light:  #777777,
+  lighter:  #999999,
   accent: #C13327,
   brand:  #ED5A3A,
   brand2: #DA3F35,
@@ -22,7 +23,8 @@ $colors: (
 $sizes: (
   unit: 1.1rem,
   font: 22px,
-  font-small: 22px * .8
+  font-small: 22px * .8,
+  font-small: 22px * .6
 );
 
 $line-height: 1.4;

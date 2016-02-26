@@ -41,7 +41,12 @@ prose:
       - name: "image"
         field:
           element: "text"
-          label: "Splash image"
+          label: "Cover Image"
+          value: ""
+      - name: "image_attribution"
+        field:
+          element: "text"
+          label: "Image Attribution"
           value: ""
       - name: "author"
         field:

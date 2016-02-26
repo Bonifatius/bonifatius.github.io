@@ -5,7 +5,10 @@ layout: default
   <article lang="{{ post.lang }}">
     <header>
       {% if page.image %}
-      <img src="{{ page.image | append: '.jpg' | prepend: '/images/' | prepend: site.baseurl }}" />
+      <img src="{{ page.image | append: '.jpg' | prepend: '/images/' | prepend: site.baseurl }}" class="image-cover" />
+      {% if page.image_attribution %}
+      <span class="image_attribution">{{ image_attribution }}</span>
+      {% endif %}
       {% endif %}
       <hgroup>
         <h1 class="title">{{ page.title }}</h1>
