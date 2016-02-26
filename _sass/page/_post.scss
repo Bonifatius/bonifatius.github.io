@@ -28,11 +28,13 @@
     margin: size(unit) 0;
   }
   > p:first-child > strong:only-child {
-    font-size: 1.1rem;
-
+    :not(.teaser) > & {
+      font-family: $fontFamily_headlines;
+      font-size: 1.1rem;
+      font-weight: bold;
+    }
     .teaser > & {
       font-weight: normal;
-      font-size: 1em;
     }
   }
 }
