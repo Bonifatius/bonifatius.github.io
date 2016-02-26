@@ -7,8 +7,9 @@ author: philipp
 lang: en
 published: true
 title: De Tormento
-image_attribution: ""
+image_attribution: Flickr/takomabibelot
 ---
+
 
 
 **Torture is wrong in any possible circumstance. It sees the victim only as a resource – not a person. Any bad definition hinders the use of concepts in politics.**
