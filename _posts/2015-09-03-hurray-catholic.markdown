@@ -2,7 +2,6 @@
 layout: post
 title: Mission for GOD
 subtitle: How Glorifying Art is Making the Difference
-date: "2015-09-03 09:30"
 tags: bonifati.us
 lang:   en
 image: san-ignazio

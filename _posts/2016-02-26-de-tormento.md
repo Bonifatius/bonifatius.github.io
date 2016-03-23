@@ -10,9 +10,6 @@ title: De Tormento
 image_attribution: Flickr/takomabibelot
 ---
 
-
-
-
 **Torture is wrong in any possible circumstance. It sees the victim only as a resource – not a person. Any bad definition hinders the use of concepts in politics.**
 
 One of the funniest lectures I have ever attended was on view of the Church on torture and capital punishment. I agree this sounds weird. These topics are really not funny and very serious. But the reaction of two of my fellow students to these topics was very strong and opposed. This resulted in a very interesting situation for the lecturer. He had to explain to a fellow from Malaysia that torture is wrong under any circumstance and to a woman from the Netherlands that capital punishment might be permissible in some situations. This was understandably difficult. The expectation is to see these answers on different sides of the political and ideological divide. But the cultural difference between the students made it even more difficult. For a Malaysian it is quite difficult to face Islamic terrorism in his home country and reject the tool that promises more safety. For the Dutch woman, after living through the Rwandese genocide in 1994, it was unfathomable that killing might ever be permissible, let alone of a prisoner.
