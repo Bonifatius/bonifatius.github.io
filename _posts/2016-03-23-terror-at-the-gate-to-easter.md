@@ -5,6 +5,7 @@ subtitle: ""
 image: "cross"
 image_attribution: ""
 author: philipp
+published: true
 lang: en
 title: Terror at the Gate to Easter
 ---
