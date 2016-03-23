@@ -55,10 +55,20 @@ a {
   }
 }
 
+quote,
 blockquote {
-  margin: size(unit, .5) 0;
   font-style: italic;
   color: color(light);
+
+  > small:last-child,
+  > p > small:last-child {
+    font-size: 1em;
+    font-style: normal;
+  }
+}
+
+blockquote {
+  margin: size(unit, .5) 0;
   padding: size(unit);
 }
 
