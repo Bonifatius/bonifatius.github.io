@@ -2,7 +2,7 @@
 layout: post
 category: blog
 subtitle: ""
-image: "cross"
+image: cross
 image_attribution: ""
 author: philipp
 published: true
@@ -10,17 +10,18 @@ lang: en
 title: Terror at the Gate to Easter
 ---
 
+
 **The terror attacks on Brussels show the human capacity to cause suffering. What is the Christian answer to suffering and injustice? What is the final outlook on the troubled life?**
 
 Europe is in shock. Brussels was hit by terror attacks. There is barley any other topic on the airways. The radio was full of new reports on casualty assessments, descriptions of the damage and eyewitness accounts. Facebook was overflowing with *Pray for Brussels* and other signs of solidarity with the Belgium people. Even if there are other topics, they felt out of place. The initial confusion barley ended as the analysis began.
 
-Why Brussels? Was it in retaliation for the arrest of Salah Abdeslam? Is our strong reaction not hypocritical compared to the late attacks at Istanbul, Ankara or even the war in Syria? Ideas and opinions from all kinds of angles appeared. But even with the many *Pray for Brussels* posts the Cristian outlook was not discussed. What is a Christian view on these horrible acts at the beginning of Holy Week? 
+Why Brussels? Was it in retaliation for the arrest of Salah Abdeslam? Is the strong reaction to this attack not hypocritical compared to the late attacks at Istanbul, Ankara or even the war in Syria? Ideas and opinions from all kinds of angles appeared. But even with the many *Pray for Brussels* posts the Cristian outlook was not discussed. What is a Christian view on these horrible acts at the beginning of Holy Week? 
 
 ## Pray for the Victims
 
 Christians pray for the victims, for the dead, the wounded and the traumatized. They offer prayers for healing and strength, for consolation and for God to receive them into his eternal vision. These barbaric killings, all the suffering seems to be senseless, meaningless and utterly futile. Nevertheless there is hope to this. The Christian faith is in the grace of God to redeem and transform this suffering. He unites it with the suffering of His Son on the cross. To be blunt: the Christian faith is more than a bit over the top on this issue. The belief of salvation coming from the suffering of an innocent on the cross is quite a stretch. On His undeserved death rests God’s plan for redemption. 
 
-This belief however must not diminish the suffering of those affected. They suffer horribly and their agony is most real. But it is ultimately not for nothing. God does use the bad to do good. The good might not be tangible or even remotely noticeable, but the faith in the all-powerful loving God entails this belief. The proper balance between the reality of suffering and hope is difficult to understand and harder yet to keep. It is easier to focus on the perceptible suffering und to deny any meaning in it. The opposite is equally appealing. Escaping the worldly suffering by focusing solely on the world to come. To deny any real importance of suffering or even the physical world at large. The first is Materialism, the second Dualism. Both fail to see the truth of our suffering. Both make it impossible to suffer with dignity. Finally under both of these terms suffering cannot be accepted. 
+This belief however must not diminish the suffering of those affected. They suffer horribly and their agony is most real. But it is ultimately not for nothing. God does use the bad to do good. The good might not be tangible or even remotely noticeable, but the faith in the all-powerful loving God entails this belief. The proper balance between the reality of suffering and hope is difficult to understand and harder yet to keep. It is easier to focus on the perceptible suffering und to deny any meaning in it. The opposite is equally appealing. Escaping the worldly suffering by focusing solely on the world to come. To deny any real importance of suffering or even the physical world at large. The first is Materialism, the second Dualism. Both fail to see the truth of human suffering. Both make it impossible to suffer with dignity. Finally under both of these terms suffering cannot be accepted. 
 
 ### The Dignity of Suffering
 
@@ -28,13 +29,13 @@ Materialism reduces the totality of existing things to the empirical, the realm 
 
 Dualism regards the material world as bad, corrupted and salvation as liberation from the material. The world and everything material needs to be overcome to find happiness and fulfillment. The truly wise and perfect soul is not affected by the material world. Therefore suffering as a part of the created world must be ignored. 
 
-But suffering is a vital part of our lives and it has a meaning beyond being unpleasant. Both come down to love. The goodness of love can be known by instinct. Human persons need to love and be loved. Without this we lack an integral part of our being. The Second Vatican Council declared this truth most beautifully: <quote>“Man […] cannot fully find himself except through a sincere gift of himself” <small>(GS 24)</small></quote>. How can man make a sincere gift of himself? 
+But suffering is a vital part of the human life and it has a meaning beyond being unpleasant. Both come down to love. The goodness of love can be known by instinct. Human persons need to love and be loved. Without an integral part of a human being would be missing. The Second Vatican Council declared this truth most beautifully: <quote>“Man […] cannot fully find himself except through a sincere gift of himself” <small>(GS 24)</small></quote>. How can man make a sincere gift of himself? 
 
 By actively choosing the good of the other. Giving himself for the good of the other. This presupposes however a lack of the other. For an absolute needless and perfect other this gift is meaningless. The gift cannot materialize in an act of man. Lack and suffering become therefore opportunities to love. A world without suffering or lack would be alien to courage, fortitude, and the drama of the human life. A drama made up of high and low points, where the lowest points have more meaning than dull and ever steady “perfection”. It would be a world without love. Any doubts about this can be alleviated by a look at the increasingly rich and self-sufficient society and the decline of personal relationships and responsibility.
 
 ## Pray for the Attackers
 
-The proper understanding of the truth of suffering is challenging with these horrible events. God’s vision of sin and guilt becomes almost impossible to humanly comprehend. What is the Christian hope for these criminals? Justice, for sure, also a change of heart so they renounce violence. But ultimately it is more, way over the top more. We hope for their repentance and therefore the forgiveness of their sins. We hope to see them in eternity, enjoying the beatific vision of God together with their victims. 
+The proper understanding of the truth of suffering is challenging with these horrible events. God’s vision of sin and guilt becomes almost impossible to humanly comprehend. What is the Christian hope for these criminals? Justice, for sure, also a change of heart so they renounce violence. But ultimately it is more, way over the top more. The Christian hope is for their repentance and therefore the forgiveness of their sins. The hope to see them in eternity, enjoying the beatific vision of God together with their victims. 
 
 ### To Forgive or not to Forgive
 
@@ -50,7 +51,7 @@ Everyone is in need of forgiveness. No one, not even a victim of horrible crimes
 
 All of this only pertains to the personal forgiveness of the victim. There is more to it. One aspect can be observed within the justice system. For the law the forgiveness of a victim is only a side note. It might be taken into consideration as a mitigating circumstance to the severity of a penalty. It has no bearing however on the general question of guilt and the public interest of punishment for an offence. 
 
-Apart from the damage a sin does to the sinner and others, there is always damage to the relationship with God. Criminals, terrorists and dictators are made in the image and likeness of God and He intends and wishes them to be in what we call Heaven, the eternal relationship with Him. He therefore is very liberal with his mercy. As Pope Francis proclaims in Evangelii Gaudium, <quote>“God never tires of forgiving us; we are the ones who tire of seeking his mercy.”</quote> The sky is not the limit but the human shame connected with sin.
+Apart from the damage a sin does to the sinner and others, there is always damage to the relationship with God. Criminals, terrorists and dictators are made in the image and likeness of God and He intends and wishes them to be in what is called Heaven, the eternal relationship with Him. He therefore is very liberal with his mercy. As Pope Francis proclaims in Evangelii Gaudium, <quote>“God never tires of forgiving us; we are the ones who tire of seeking his mercy.”</quote> The sky is not the limit but the human shame connected with sin.
 
 ### The Glory of Suffering
 
