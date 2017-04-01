@@ -45,4 +45,4 @@ Hoffnungen auf ein Nutzen als Jungbrunnen werden von Ursula F. eine Besseren bel
   Wird das Standartwerk zur Geschichte des Tees in Schönstatt
 * Tobias Brehm: *Erschließung thermischer Fluidlagerstätten im Rheinischen Schiefergebirge*
 
-![]({{site.baseurl}}//images/teelink-deutschland_full.png)
+![]({{site.baseurl}}/images/teelink-deutschland_full.png)
