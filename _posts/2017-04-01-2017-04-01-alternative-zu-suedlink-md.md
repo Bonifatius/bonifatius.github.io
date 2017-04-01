@@ -31,17 +31,17 @@ Hoffnungen auf ein Nutzen als Jungbrunnen werden von Ursula F. eine Besseren bel
 
 # Literatur zum Thema:
 
-* Klaus Glas: Roter Tee beim Liedertexten, Fulda 2014
+* Klaus Glas: Roter Tee beim Liedertexten, Fulda 2014  
   Das Fachbuch zu den psychopathologischen Auswirkungen des Tees
-* Der Heizer Engling auf Welttournee ab Herbst 2017 
+* Der Heizer Engling auf Welttournee ab Herbst 2017  
   Ein Musical über den Gründervater der Teetaucher von Willfried Röhrig
-* Pater Herbert King: Kentenichs Teepädagogik,  Vallendar, 1980
+* Pater Herbert King: Kentenichs Teepädagogik,  Vallendar, 1980  
   „Christliche Charaktere schwimmen sich im Tee frei“
-* Joachim Schmiedl (Hrsg): Ansätze schönstättischer Teeologie, Schönstatt 2009
+* Joachim Schmiedl (Hrsg): Ansätze schönstättischer Teeologie, Schönstatt 2009  
   Ein Kompendium in 18 Bänden
-* Francisco Javier Kardinal Errázuriz Ossa: Tee kuriert, Rom 2012
+* Francisco Javier Kardinal Errázuriz Ossa: Tee kuriert, Rom 2012  
   Positionspapier für die Neuordnung der Kurie
-* Dorothea M. Schlickmann: für 2018 angekündigtes Buch
+* Dorothea M. Schlickmann: für 2018 angekündigtes Buch  
   Wird das Standartwerk zur Geschichte des Tees in Schönstatt
 * Tobias Brehm: Erschließung thermischer Fluidlagerstätten im Rheinischen Schiefergebirge
 
