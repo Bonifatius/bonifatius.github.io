@@ -6,6 +6,7 @@ lang: en
 published: false
 title: Theology of the Body is not about Sex
 image_attribution: Luc Viatour / www.Lucnix.be
+image: Da_Vinci_Vitruve_Luc_Viatour
 ---
 **When talking about the Theology of the Body, we generally assume that it explores the topic of sexual ethics, however this is not what the Theology of the Body is exclusively about. Rather Theology of the Body is about me, you, us and the whole of humanity. It is a study of ourselves since we have been created with a body. Although sexuality is a part of the Theology of the Body, since it is connected to the body and the human person, it is not the whole.**
 
