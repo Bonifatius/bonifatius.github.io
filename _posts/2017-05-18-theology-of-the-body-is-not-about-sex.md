@@ -4,7 +4,7 @@ category: blog
 author: philipp
 lang: en
 published: true
-title: Theology of the Body is not about Sex
+title: ToB is not about Sex
 image_attribution: Luc Viatour / www.Lucnix.be
 image: Vitruve-Luc-Viatour
 ---
