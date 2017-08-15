@@ -1,3 +1,8 @@
+---
+layout: page
+title: Im Schatten des Doms
+tagline: Mainzer Schönstatthymne
+---
 <section class="verse" id="1"><span>1</span>
 Halt den Narren-Spiegel dir vor's Gesicht.
 Bist du das wirklich, ist das denn noch dein Ich?
