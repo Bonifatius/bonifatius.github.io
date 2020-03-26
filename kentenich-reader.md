@@ -7,12 +7,12 @@ permalink: /kentenich-reader
 
 Die Kommunikation für den Reader machen wir mit dem Tool Jitsi.
 
-Der Zugang zur Konferenz wird vor dem Reader als Link verteilt und kann auf dem PC und Mac direkt im Browser geöffnet werden (Internet Explorer und Edge funktionieren nicht). Ein extra Programm ist nicht nötig.
+Der Zugang zur Konferenz wird vor dem Reader als Link verteilt und kann auf dem PC und Mac direkt im Browser geöffnet werden (Internet Explorer und Edge funktionieren nicht). Ein extra Programm oder Account ist nicht nötig.
 
 Für mobile Geräte wird die Jitis App benötigt:
 
-* [*Android*] (https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=en)
-* [*iOS*] (https://apps.apple.com/us/app/jitsi-meet/id1165103905).
+* [*Android*](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=en)
+* [*iOS*](https://apps.apple.com/us/app/jitsi-meet/id1165103905).
 
 Auch in der App wird kein Account benötigt.
 
