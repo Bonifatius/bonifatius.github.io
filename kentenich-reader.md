@@ -12,7 +12,7 @@ Der Zugang zur Konferenz wird vor dem Reader als Link verteilt und kann auf dem 
 Für mobile Geräte wird die Jitis App benötigt:
 
 * [*Android*](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=en)
-* [*iOS*](https://apps.apple.com/us/app/jitsi-meet/id1165103905).
+* [*iOS*](https://apps.apple.com/us/app/jitsi-meet/id1165103905)
 
 Auch in der App wird kein Account benötigt.
 
