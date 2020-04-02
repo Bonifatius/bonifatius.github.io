@@ -5,7 +5,7 @@ title: Tutorial Kentenich Reader Online
 permalink: /kentenich-reader
 ---
 # Tutorial Kentenich Reader Online
-Die Kommunikation für den Reader machen wir mit dem Tool Jitsi.
+<p>Die Kommunikation für den Reader machen wir mit dem Tool Jitsi.</p>
 
 
 Der Zugang zur Konferenz wird vor dem Reader als Link verteilt und kann auf dem PC und Mac direkt im Browser geöffnet werden (Internet Explorer und Edge funktionieren nicht). Ein extra Programm oder Account ist nicht nötig. 
